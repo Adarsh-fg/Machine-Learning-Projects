@@ -1,4 +1,5 @@
 # **Air Quality Prediction Using Machine Learning**
+## **Regression Model**
 
 This project is a comprehensive exploration of air quality data, designed to analyze historical pollutant levels and build machine learning models for predicting Air Quality Index (AQI). By combining data-driven insights and predictive modeling, this project helps to understand the factors influencing air quality and make informed decisions for better environmental management.
 
